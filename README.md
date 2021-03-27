@@ -12,4 +12,6 @@ Learning project of the apache airflow, to understand its architecture and impro
     pip install --upgrade pip==20.2.4
     ```
 
-- https://github.com/puckel/docker-airflow    
+- https://github.com/puckel/docker-airflow
+- https://airflow.apache.org/docs/apache-airflow-providers-google/stable/operators/cloud/pubsub.html
+- https://www.astronomer.io/guides/dynamically-generating-dags    
