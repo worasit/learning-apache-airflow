@@ -14,4 +14,5 @@ Learning project of the apache airflow, to understand its architecture and impro
 
 - https://github.com/puckel/docker-airflow
 - https://airflow.apache.org/docs/apache-airflow-providers-google/stable/operators/cloud/pubsub.html
-- https://www.astronomer.io/guides/dynamically-generating-dags    
+- https://www.astronomer.io/guides/dynamically-generating-dags
+- https://medium.com/traveloka-engineering/enabling-autoscaling-in-google-cloud-composer-ac84d3ddd60    
